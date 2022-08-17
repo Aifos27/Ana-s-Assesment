@@ -1,0 +1,39 @@
+/* add code here to make your image 300px square */
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+}
+</style>
+
+</head>
+<body>
+
+<h2>Thumbnail Image</h2>
+
+<p>Use the border property to create thumbnail images:</p>
+
+<img src="https://i.pinimg.com/originals/7a/af/0f/7aaf0f1d48f57b7779c0fbcf103c2d0f.jpg" alt= "Our LoyaL Companion" style="widht: 300px height 300px">
+/* add code here to change the color and font family of your name/title */
+<h1 style="color:Yellow;">Daisy</h1>
+<h2 style="color:violet;">07/17/2022</h2>
+
+<ol style="color:DodgerBlue;"><li>Daisy is really small.</li>
+      <li>She has two colors.</li>
+      <li>She was around 12 weeks when I adopted her.</li></ol>
+</style>
+<html>
+<head>
+<style>
+.p1 {
+  font-family: "Lucida Handwriting", cursive;
+}
+
+</style>
+</head>
+<body>
+
+<h1>
+<p class="p1">Daisy</p></h1>
+</style>
